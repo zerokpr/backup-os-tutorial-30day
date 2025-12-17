@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"*.txt": "plaintext",
+		"stdio.h": "c",
+		"bootpack.h": "c",
+		"corosapi.h": "c",
+		"roastd.h": "c",
+		"stdarg.h": "c",
+		"string.h": "c"
+	}
+}
